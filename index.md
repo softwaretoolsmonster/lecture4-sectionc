@@ -1,5 +1,6 @@
 # Lecture 4
 ## Markdown Tutorial
+### Section C
 
 *This is an italic text*
 
