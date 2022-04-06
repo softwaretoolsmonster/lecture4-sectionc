@@ -1,1 +1,1 @@
-This repository is aa markdown tutorial
+This repository is a markdown tutorial
